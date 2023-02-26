@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "8166bef8f0e91de1f2097f73b2646754cf0272036f992d2385a56e77803e2ce9"
+
+[[files]]
 file = "mods/carpet-autocraftingtable.pw.toml"
 hash = "1c11df251ddc3253b6cbeeb9b852f6b313e6e87bf822d33cbba9a08c5570b8aa"
 metafile = true
@@ -73,14 +77,4 @@ metafile = true
 [[files]]
 file = "mods/tabtps.pw.toml"
 hash = "a9c95a9973def27db2a77b3588e0ab21fd9f2aec49b7a2a4c3ded0a6e4ee7f99"
-metafile = true
-
-[[files]]
-file = "mods/viabackwards.pw.toml"
-hash = "91e6205246cd7a233c37337d1eb7a5d627c4e482f7bd8e98c20763ecd5c95b83"
-metafile = true
-
-[[files]]
-file = "mods/viafabric.pw.toml"
-hash = "cb296e2ecf6550b660d12ca970955db5e9bd5cac86f78705fffdef39d839f4bb"
 metafile = true
