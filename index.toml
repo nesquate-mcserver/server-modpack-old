@@ -1,0 +1,86 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/carpet-autocraftingtable.pw.toml"
+hash = "1c11df251ddc3253b6cbeeb9b852f6b313e6e87bf822d33cbba9a08c5570b8aa"
+metafile = true
+
+[[files]]
+file = "mods/carpet-extra.pw.toml"
+hash = "377ad604c73018c250c25b525321810ddda2a425371ea7cac135fdea21e8b205"
+metafile = true
+
+[[files]]
+file = "mods/carpet-fixes.pw.toml"
+hash = "0f885325fc5290abe9bbd78a03de178fd181e4c5aa2e00900e1deb8104e68019"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "6b0c999ed662dbf93be1da92b1f7200fda80f4e690448ec603cda0f1b81c6ccb"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "42446d78b9b558cc4a0341de547c5a427b2b6b5c346d60dd6e5d67fc9df4fcfb"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "0fe83c99b29c952f464c7bfba9cc86cc4f834bef7834821433fe23ce3dd230e6"
+metafile = true
+
+[[files]]
+file = "mods/fabric-permissions-api.pw.toml"
+hash = "71de11930d6b9ef59f47b71b9a41ff0f77a6aaa31b2680c6f1af568c3cd7e855"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "f2116bab9a54a2f4d95fd7bced75572d95de31cec9b630c6cdfca5cf9d7ff96a"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "13c01e730b4ac48724be93066e553ca58309c120ba83d88b4e0549c5f8342e3d"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "4110eb586013d15806189b213944fdef7caafa7e217f91d841a0654d71acdef4"
+metafile = true
+
+[[files]]
+file = "mods/mcdiscordchat.pw.toml"
+hash = "7b3998da386574126e7afedd8821353b555d84b412c689c1e238d8f1d758dafb"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "e69463aed8a2ffe236fad62c17e3ae4af38f0784b7eeabbc755338fbad4456e7"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "2a9edf87d60100a2d1f6e9fd56b15c5d31951024d8953b0cb77e4af778df3420"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "7b110f0f87bb5f21381cc9c2338be6689219a36ef13cb34c22e745df4e6afbff"
+metafile = true
+
+[[files]]
+file = "mods/tabtps.pw.toml"
+hash = "a9c95a9973def27db2a77b3588e0ab21fd9f2aec49b7a2a4c3ded0a6e4ee7f99"
+metafile = true
+
+[[files]]
+file = "mods/viabackwards.pw.toml"
+hash = "91e6205246cd7a233c37337d1eb7a5d627c4e482f7bd8e98c20763ecd5c95b83"
+metafile = true
+
+[[files]]
+file = "mods/viafabric.pw.toml"
+hash = "cb296e2ecf6550b660d12ca970955db5e9bd5cac86f78705fffdef39d839f4bb"
+metafile = true

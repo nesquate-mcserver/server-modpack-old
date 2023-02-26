@@ -1,0 +1,7 @@
+name = "fabric-permissions-api"
+filename = "fabric-permissions-api-v0.2.jar"
+
+[download]
+url = "https://github.com/lucko/fabric-permissions-api/releases/download/v0.2/fabric-permissions-api-v0.2.jar"
+hash-format = "sha1"
+hash = "b1363bc68121f381ee723f3ea213a51fb652ff93"
