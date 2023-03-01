@@ -25,6 +25,11 @@ hash = "6b0c999ed662dbf93be1da92b1f7200fda80f4e690448ec603cda0f1b81c6ccb"
 metafile = true
 
 [[files]]
+file = "mods/dashloader.pw.toml"
+hash = "140a41b6e15707e2d56505e2bf57dfa69783686b602c5c1ef50ded9b7c1fcd84"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "42446d78b9b558cc4a0341de547c5a427b2b6b5c346d60dd6e5d67fc9df4fcfb"
 metafile = true
@@ -45,6 +50,11 @@ hash = "f2116bab9a54a2f4d95fd7bced75572d95de31cec9b630c6cdfca5cf9d7ff96a"
 metafile = true
 
 [[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "13c01e730b4ac48724be93066e553ca58309c120ba83d88b4e0549c5f8342e3d"
 metafile = true
@@ -57,6 +67,11 @@ metafile = true
 [[files]]
 file = "mods/mcdiscordchat.pw.toml"
 hash = "7b3998da386574126e7afedd8821353b555d84b412c689c1e238d8f1d758dafb"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "5b43c0fc6904ad4480c8ed596411c6e24172f8320ccd63de97b4ce2e7e0f90a5"
 metafile = true
 
 [[files]]
