@@ -1,7 +1,7 @@
 name = "fabric-permissions-api"
-filename = "fabric-permissions-api-0.2-SNAPSHOT-dev.jar"
+filename = "fabric-permissions-api-0.2-SNAPSHOT.jar"
 
 [download]
-url = "https://modup.nesquate.tw/self-build/fabric-permissions-api-0.2-SNAPSHOT-dev.jar"
+url = "https://modup.nesquate.tw/self-build/fabric-permissions-api-0.2-SNAPSHOT.jar"
 hash-format = "sha1"
-hash = "516631fe262855be72d63f436ecd8552d27256f3"
+hash = "95411d3736270bf2a0251cfa3f47b028d2735a03"
