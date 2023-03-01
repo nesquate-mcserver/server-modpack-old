@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "8166bef8f0e91de1f2097f73b2646754cf0272036f992d2385a56e77803e2ce9"
-
-[[files]]
 file = "mods/carpet-autocraftingtable.pw.toml"
 hash = "1c11df251ddc3253b6cbeeb9b852f6b313e6e87bf822d33cbba9a08c5570b8aa"
 metafile = true
