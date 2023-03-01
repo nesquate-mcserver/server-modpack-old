@@ -23,4 +23,11 @@
 | 名稱 | URL |
 |:---|:---|
 |carpet-autoCraftingTable|https://github.com/gnembon/carpet-autoCraftingTable|
-|fabric-permissions-api|https://github.com/lucko/fabric-permissions-api|
+
+## 需手動編譯模組列表
+
+以下模組因為各種問題需要手動編譯
+
+| 名稱 | URL |原因|  
+|:---|:---|:---|
+|fabric-permissions-api|https://github.com/lucko/fabric-permissions-api|最新 Commit 沒有釋出 Release 導致 LuckPerms 依賴炸掉|
