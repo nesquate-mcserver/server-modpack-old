@@ -66,11 +66,6 @@ hash = "7b3998da386574126e7afedd8821353b555d84b412c689c1e238d8f1d758dafb"
 metafile = true
 
 [[files]]
-file = "mods/memoryleakfix.pw.toml"
-hash = "5b43c0fc6904ad4480c8ed596411c6e24172f8320ccd63de97b4ce2e7e0f90a5"
-metafile = true
-
-[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "e69463aed8a2ffe236fad62c17e3ae4af38f0784b7eeabbc755338fbad4456e7"
 metafile = true
