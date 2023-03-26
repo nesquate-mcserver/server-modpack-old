@@ -1,13 +1,13 @@
 name = "MCDiscordChat"
-filename = "MCDiscordChat-1.19.3-2.1.2.jar"
+filename = "MCDiscordChat-2.1.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "246a813909b45fc874f6c4d0ee8c986a187fd4f7"
+hash = "87dc1523dbe30419c76f4b077dbaa2268106e687"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4312107
+file-id = 4439082
 project-id = 548539

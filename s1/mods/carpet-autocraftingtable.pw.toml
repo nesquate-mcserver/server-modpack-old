@@ -1,7 +1,7 @@
 name = "carpet-autoCraftingTable"
-filename = "carpet-autocraftingtable-1.19.3-1.4.91.jar"
+filename = "carpet-autocraftingtable-1.19.4-1.4.100.jar"
 
 [download]
-url = "https://github.com/gnembon/carpet-autoCraftingTable/releases/download/1.4.91/carpet-autocraftingtable-1.19.3-1.4.91.jar"
+url = "https://github.com/gnembon/carpet-autoCraftingTable/releases/download/1.4.100/carpet-autocraftingtable-1.19.4-1.4.100.jar"
 hash-format = "sha1"
-hash = "739bfe7ec875f6fb385f5c94b5e70065ce5306de"
+hash = "7001a9bf53f271649e49589f6bd35969dfd127b6"

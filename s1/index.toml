@@ -2,12 +2,12 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/carpet-autocraftingtable.pw.toml"
-hash = "1c11df251ddc3253b6cbeeb9b852f6b313e6e87bf822d33cbba9a08c5570b8aa"
+hash = "b25d7a63799bb02283b0e5f4dcc8aa129e1b51832162f3ab3eaeda4869d448cf"
 metafile = true
 
 [[files]]
 file = "mods/carpet-extra.pw.toml"
-hash = "377ad604c73018c250c25b525321810ddda2a425371ea7cac135fdea21e8b205"
+hash = "34b2b77c938f0feb2e94812738693f4196d3163329a97af75f2f4b10cbe99ea4"
 metafile = true
 
 [[files]]
@@ -16,23 +16,28 @@ hash = "0f885325fc5290abe9bbd78a03de178fd181e4c5aa2e00900e1deb8104e68019"
 metafile = true
 
 [[files]]
+file = "mods/carpet-tis-addition.pw.toml"
+hash = "c9739587607d3a2cd808110724def117be4ffc7af11bd2aa3ada64279914a0b2"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
-hash = "6b0c999ed662dbf93be1da92b1f7200fda80f4e690448ec603cda0f1b81c6ccb"
+hash = "9f787016e772d10343a5d1ffcc30019a722659e6e7c9f658407d354283b24286"
 metafile = true
 
 [[files]]
 file = "mods/dashloader.pw.toml"
-hash = "140a41b6e15707e2d56505e2bf57dfa69783686b602c5c1ef50ded9b7c1fcd84"
+hash = "28cbffe5553d1fe781181253ea86dd0be408d1cab84a7df45cf2c5003f01c381"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "42446d78b9b558cc4a0341de547c5a427b2b6b5c346d60dd6e5d67fc9df4fcfb"
+hash = "80f49d10263dca41505fd9a2c41c58209bd8f35ebd242e00e29b14d87abd9955"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "0fe83c99b29c952f464c7bfba9cc86cc4f834bef7834821433fe23ce3dd230e6"
+hash = "3ecd59b2ab957aadc6759fdb82b82d63c03dfef49c1199f271078659e94cdbf1"
 metafile = true
 
 [[files]]
@@ -42,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "f2116bab9a54a2f4d95fd7bced75572d95de31cec9b630c6cdfca5cf9d7ff96a"
+hash = "14e54e8764a04369a8774f9addfc15f81b3793803df26b4a38ad21fa05619dbb"
 metafile = true
 
 [[files]]
@@ -52,35 +57,30 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "13c01e730b4ac48724be93066e553ca58309c120ba83d88b4e0549c5f8342e3d"
+hash = "869cfbeecb3595d8e72a7ec77741389e9b2154d63478ac3ecb1fcaa0879c80ec"
 metafile = true
 
 [[files]]
 file = "mods/luckperms.pw.toml"
-hash = "4110eb586013d15806189b213944fdef7caafa7e217f91d841a0654d71acdef4"
+hash = "e68e652755216d4191ee10a9aaec58d7e722d21bc7368cff07c820a9725ada18"
 metafile = true
 
 [[files]]
 file = "mods/mcdiscordchat.pw.toml"
-hash = "7b3998da386574126e7afedd8821353b555d84b412c689c1e238d8f1d758dafb"
+hash = "abe503a5644aae93e9ab41b4c65616e10cb0ec576acafdcaf6eeccd4622e1c0c"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "e69463aed8a2ffe236fad62c17e3ae4af38f0784b7eeabbc755338fbad4456e7"
+hash = "c01f00bc3f4e37b70a9a6aab6041ae40708b0068769770c1ec1f899429ab71b5"
 metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "2a9edf87d60100a2d1f6e9fd56b15c5d31951024d8953b0cb77e4af778df3420"
+hash = "ed630161a04121bc00562c9a9ceab91d8c1d0bda43ab83d2a1256609f3db1701"
 metafile = true
 
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "7b110f0f87bb5f21381cc9c2338be6689219a36ef13cb34c22e745df4e6afbff"
-metafile = true
-
-[[files]]
-file = "mods/tabtps.pw.toml"
-hash = "a9c95a9973def27db2a77b3588e0ab21fd9f2aec49b7a2a4c3ded0a6e4ee7f99"
 metafile = true
