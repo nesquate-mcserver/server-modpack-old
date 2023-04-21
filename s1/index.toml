@@ -61,6 +61,11 @@ hash = "abe503a5644aae93e9ab41b4c65616e10cb0ec576acafdcaf6eeccd4622e1c0c"
 metafile = true
 
 [[files]]
+file = "mods/mcdr-command-fabric.pw.toml"
+hash = "97530edbeab2963684cbe8f69bff1a7178b1a4cc7f3efa90cdba8262b2af2402"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "beb6da541f06d6b24a156463150b8ca209ceac866a3247aa370e80258464666e"
 metafile = true
@@ -73,4 +78,9 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "7b110f0f87bb5f21381cc9c2338be6689219a36ef13cb34c22e745df4e6afbff"
+metafile = true
+
+[[files]]
+file = "mods/syncmatica.pw.toml"
+hash = "0d02218936f9f60802fec2589826332cdb5d55623325cd48fb94f1f53b563072"
 metafile = true

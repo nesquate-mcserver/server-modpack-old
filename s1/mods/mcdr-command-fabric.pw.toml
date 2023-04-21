@@ -1,0 +1,13 @@
+name = "MCDR Command Fabric"
+filename = "MCDRcommandFabric-1.19.2-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "12e1026273caf9ce815d1cff7365afcfd2a369ac"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4344475
+project-id = 811204
