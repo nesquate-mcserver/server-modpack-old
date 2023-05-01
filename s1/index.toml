@@ -27,12 +27,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7857d46b41b5c4a2a9a11fd17572a266c633064ac026b72588e0f4afcb296942"
+hash = "3fcfa480ee797c4c520a033f2d4ccc532a0761565e9f2de8011901821c960128"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "62360beac5e427be02b732421c9e4fe53819bc6f5e2cc821fd6f2d9278c5485b"
+hash = "7be1e122e9ef8f1b7f2df9ffccf02cf83a52d0a53ae5ba7d07ea7bd3cc149101"
 metafile = true
 
 [[files]]
@@ -67,12 +67,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "beb6da541f06d6b24a156463150b8ca209ceac866a3247aa370e80258464666e"
+hash = "864673e3ddba6d0d8e16cc66420a87ae2cb97a00619f0f8cc93b5f3ef831b013"
 metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "ed630161a04121bc00562c9a9ceab91d8c1d0bda43ab83d2a1256609f3db1701"
+hash = "9998738e158a3c70344c63af68df941d64c1a23423a747e5ac52edd9dcb353b5"
 metafile = true
 
 [[files]]
