@@ -4,7 +4,7 @@
 
 ## 目標 Minecraft 版本
 
-1.19.4
+1.20.1
 
 ## 模組版本號規則
 
@@ -24,10 +24,10 @@
 |:---|:---|
 |carpet-autoCraftingTable|https://github.com/gnembon/carpet-autoCraftingTable|
 
-## 需手動編譯模組列表
+<!-- ## 需手動編譯模組列表
 
 以下模組因為各種問題需要手動編譯
 
 | 名稱 | URL |原因|  
 |:---|:---|:---|
-|fabric-permissions-api|https://github.com/lucko/fabric-permissions-api|最新 Commit 沒有釋出 Release 導致 LuckPerms 依賴炸掉|
+|fabric-permissions-api|https://github.com/lucko/fabric-permissions-api|最新 Commit 沒有釋出 Release 導致 LuckPerms 依賴炸掉| -->

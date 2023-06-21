@@ -1,0 +1,13 @@
+name = "MCDiscordChat"
+filename = "MCDiscordChat-1.20-2.1.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/D0sHdnXY/versions/IOsuelCG/MCDiscordChat-1.20-2.1.4.jar"
+hash-format = "sha1"
+hash = "0ba17ee6b0c42a1593405629e13c800b2b9894fe"
+
+[update]
+[update.modrinth]
+mod-id = "D0sHdnXY"
+version = "IOsuelCG"

@@ -1,16 +1,51 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/carpet-autocraftingtable.pw.toml"
+hash = "001292683861cbb147b1ec38a4ec81e6243a3dd33b688d4ee5c5bedbc052acc0"
+metafile = true
+
+[[files]]
+file = "mods/carpet-fixes.pw.toml"
+hash = "7e2c136b2b7a150f4e13ae5f74b057395ed3bf2848c5bdf08d612d60b211c338"
+metafile = true
+
+[[files]]
+file = "mods/carpet-tis-addition.pw.toml"
+hash = "eeb5b3036a6ccb5388b8e87016dc1fac7a85b7d05914570d3a19ddb15b2b1d84"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
-hash = "64858dde2ddc095fc4ac29bcc2bcb6f397bc01890c0b71f78f309e0dcc3243b4"
+hash = "095a93b4f0b4e2b8fadf8359bc145cbdd83be3c5bf23432e9a5f4e54d60de5b4"
 metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
+hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "feaedf6b6d73530c0289d9c7aa4149823343d2a7f9893f7b81e8c7c003763f31"
+hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
+file = "mods/mcdiscordchat.pw.toml"
+hash = "5329c18a510cf6a452fd5d1f2153750e0f0a226b3071e720d8bb3d1174005010"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "d0bb678867006b092ce328666e1816652b93c13c6d62f520ffe3a212ae396fdb"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "218f67d6bcaae849582618cd3e5eb1d4cac0fd6045115f64340620300e160c11"
+metafile = true
+
+[[files]]
+file = "mods/syncmatica.pw.toml"
+hash = "bb6fedf68c85d332e6a584c8036ac986fc8f63db48d0a5648731ab40cd76059f"
 metafile = true
