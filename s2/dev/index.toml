@@ -1,0 +1,121 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "78bf078da5e46c2513889f86aa24e522d0651055b5a93a17341b96fdcba70b5e"
+metafile = true
+
+[[files]]
+file = "mods/carpet-extra.pw.toml"
+hash = "57549b729dc9954eb441aebe38512e458b845a315e30702fd862a96fa7eab37c"
+metafile = true
+
+[[files]]
+file = "mods/carpet-fixes.pw.toml"
+hash = "d7c6555b666ff113894f6dd6dba7e6cc95c041542d06a39fd6f67421341711b9"
+metafile = true
+
+[[files]]
+file = "mods/carpet-tis-addition.pw.toml"
+hash = "0f67402e8edd973bcc4e5f514ddfc8d7a42acc7a38d72cec2da291f1035fcc38"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "73b80c7877588be39ec355a59b574f6e45389dea7b2e502a003daf1fd396b97d"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "2205239199b4a1e74afcdba1151807d2e4487ce2cf116cee9f62d25f1659a3f5"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "de9b5bac4165fb069bf6df9da2bb6028d50dd51fa0d294f0fb62d1d0c64b707b"
+metafile = true
+
+[[files]]
+file = "mods/fabric-permission-api.pw.toml"
+hash = "5ac1f2aa6b940826ae00e0e2f9278ba2050298b217f09fea58d2f0691b5f5a81"
+metafile = true
+
+[[files]]
+file = "mods/fabricproxy-lite.pw.toml"
+hash = "2e505480c06836448dfe277bdf93d184ca1aca821291574ddd3fccfe9f0ca387"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "03e174cf691b52da20bd973b955fae6f3720d3d2120f9d6cc1de5fdf3180013c"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "9d29339a6ae2413f2b1e77d81fec8b4288dcc9de6aa848fc2ed52028b17ea8e3"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/ledger.pw.toml"
+hash = "84defc8f8116d5c0e4210934ed1f555641a1db71b767fa4beddee21c47118868"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "6ccdedbcab01af6b64bf08338c6341a16efe907a71cca5b398192c75fbcc07c8"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "879f42a9c6ede67873e773764319cc52105db1c5bfdd540878c9a28eaa0c5561"
+metafile = true
+
+[[files]]
+file = "mods/mcdiscordchat.pw.toml"
+hash = "fd5c552628fcda7f9c6504c5e7f6712bd87d9649e18da8a13028d7d4fa81ff56"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "79e728aa7d81f460b62b73d820b16796390c13951d6aca9e78347bc59f79e242"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
+metafile = true
+
+[[files]]
+file = "mods/raknetify.pw.toml"
+hash = "e01e749bc9136bf07c90a76c3eaff99c3be2469f37045b8920eb1632eb057720"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "7ca0983d3b7852c06f84c66b9f12da8115ff9b8ba63293cd20452377a0de726e"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "95a8e99f81de38821f96fe6af69677a1f9ec722f2268418d1b800cebc5f8928c"
+metafile = true
+
+[[files]]
+file = "mods/styled-nicknames.pw.toml"
+hash = "e6f4e06c4d4442c08a9f64772a3e078209d57a5d81f6c8ee0fde0da006789a3a"
+metafile = true
+
+[[files]]
+file = "mods/syncmatica.pw.toml"
+hash = "4d786359ef8456d83b4d73f57a04d690b75b773203bb83fef3e4cb85c7bd460d"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "97fa007dd7405b09c63101e909924c953308775029bc4de45df993b55b015100"
+metafile = true
