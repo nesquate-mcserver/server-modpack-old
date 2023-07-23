@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/audioplayer.pw.toml"
+hash = "3690fe53a1adf07216a2292de05561752fd9e3f598615fa4edce10ae797694de"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "78bf078da5e46c2513889f86aa24e522d0651055b5a93a17341b96fdcba70b5e"
 metafile = true
@@ -93,6 +98,11 @@ metafile = true
 [[files]]
 file = "mods/raknetify.pw.toml"
 hash = "e01e749bc9136bf07c90a76c3eaff99c3be2469f37045b8920eb1632eb057720"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "5917df3c585bc3cc3de70143a41efa3507e33a95007eab91f992736a4e5ffe0b"
 metafile = true
 
 [[files]]
