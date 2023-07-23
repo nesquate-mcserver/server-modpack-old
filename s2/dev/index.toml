@@ -141,6 +141,11 @@ hash = "dfaa5e251f139791e93bf7cc7db9d69798a6636e8f2affd3d98cc9b79a4d0458"
 metafile = true
 
 [[files]]
+file = "mods/vanilla-permissions.pw.toml"
+hash = "074cf2d26afeb275889bc2df21e3d4300cc1cd4b409c42ff35fc134ba19a78ab"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "dc3970e3d66599050e917319f42a8a002f2ec0ed744d3140acc5a6f3d032199f"
 metafile = true
