@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/async-locator.pw.toml"
+hash = "b0c84806bc32028e006144a81865ff5180614bb8146ffc265a905bb2c6c3e1bb"
+metafile = true
+
+[[files]]
 file = "mods/audioplayer.pw.toml"
 hash = "3690fe53a1adf07216a2292de05561752fd9e3f598615fa4edce10ae797694de"
 metafile = true
@@ -51,8 +56,18 @@ hash = "2e505480c06836448dfe277bdf93d184ca1aca821291574ddd3fccfe9f0ca387"
 metafile = true
 
 [[files]]
+file = "mods/faster-random.pw.toml"
+hash = "73f815e7ef5c0589d30b901856be86dd0e6ceee51b4d361fb5bdda43e9dafd09"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "03e174cf691b52da20bd973b955fae6f3720d3d2120f9d6cc1de5fdf3180013c"
+metafile = true
+
+[[files]]
+file = "mods/gotta-go-fast-fabric.pw.toml"
+hash = "6beecae4007fc03a0fc56f4c9338492852351422ecb50aa41e9c04b6c5e259d1"
 metafile = true
 
 [[files]]
@@ -73,6 +88,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "6ccdedbcab01af6b64bf08338c6341a16efe907a71cca5b398192c75fbcc07c8"
+metafile = true
+
+[[files]]
+file = "mods/log-begone.pw.toml"
+hash = "7fabd6bd7ee1f94d0bbb48a9f0c563eafb0ef878903716f6d989b2c441585bb1"
 metafile = true
 
 [[files]]
@@ -101,8 +121,18 @@ hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "83b476730dba8c3cdc9ee6ed4e0623f97bc116848aebfe3149eece321083b251"
+metafile = true
+
+[[files]]
 file = "mods/raknetify.pw.toml"
 hash = "e01e749bc9136bf07c90a76c3eaff99c3be2469f37045b8920eb1632eb057720"
+metafile = true
+
+[[files]]
+file = "mods/recipecooldown.pw.toml"
+hash = "e8fa46e5c43883dbdc0ad1069813f2b079ea948ff59a6c00defda16363545871"
 metafile = true
 
 [[files]]
