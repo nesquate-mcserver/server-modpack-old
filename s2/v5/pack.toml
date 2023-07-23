@@ -1,6 +1,6 @@
 name = "Nesquate's Server Modpack"
 author = "Nesquate"
-version = "s2-5.0"
+version = "s2-5.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
