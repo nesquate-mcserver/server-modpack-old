@@ -66,6 +66,11 @@ hash = "c606da25dbaba1a5126b9b0a34b7af82b04f6c9024f1f8a579af0ffea045e184"
 metafile = true
 
 [[files]]
+file = "mods/litematica-server-paster.pw.toml"
+hash = "82be2e51a2e712491c1fc5db3731273173ae7bcbdb1bb81a0e859763754614a4"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "6ccdedbcab01af6b64bf08338c6341a16efe907a71cca5b398192c75fbcc07c8"
 metafile = true
