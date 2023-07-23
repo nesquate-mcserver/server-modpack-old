@@ -76,6 +76,11 @@ hash = "6ccdedbcab01af6b64bf08338c6341a16efe907a71cca5b398192c75fbcc07c8"
 metafile = true
 
 [[files]]
+file = "mods/luckperms-fabric-placeholderapi-addon.pw.toml"
+hash = "f645da73ea529bdccfdd557605b84da90f09302b5b934b06127878fca918096b"
+metafile = true
+
+[[files]]
 file = "mods/luckperms.pw.toml"
 hash = "879f42a9c6ede67873e773764319cc52105db1c5bfdd540878c9a28eaa0c5561"
 metafile = true
@@ -116,8 +121,18 @@ hash = "95a8e99f81de38821f96fe6af69677a1f9ec722f2268418d1b800cebc5f8928c"
 metafile = true
 
 [[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "4f101cf87d3e2228c8c62e3b91ecdb1825809841041e709f9d1480d4e25fad3a"
+metafile = true
+
+[[files]]
 file = "mods/styled-nicknames.pw.toml"
 hash = "e6f4e06c4d4442c08a9f64772a3e078209d57a5d81f6c8ee0fde0da006789a3a"
+metafile = true
+
+[[files]]
+file = "mods/styledplayerlist.pw.toml"
+hash = "8a6442ca759237fb4346e02653feba023529db29127c6b20740801199395241d"
 metafile = true
 
 [[files]]
